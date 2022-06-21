@@ -3,7 +3,7 @@
 
 This for Company Website Wassen Detergent Cambodia
 
-ReactJS (Multilanguage english and Khmer + Strapi
+ReactJS (Multilanguage English and Khmer) + Strapi
 
 
 
